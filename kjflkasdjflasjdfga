@@ -1,0 +1,49 @@
+[33mcommit 966568320af7d006d676759075be3ba5df101493[m[33m ([m[1;36mHEAD -> [m[1;32mpoodo[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlast[m[33m)[m
+Merge: 252b1ca 9e40c91
+Author: Muhammed Irfan <irfannadapuram@gmail.com>
+Date:   Tue Sep 6 18:14:08 2022 +0530
+
+    hello
+
+[33mcommit 252b1cadc02a77173eef474eaa2370552e674f01[m
+Merge: 1162b9c de21e92
+Author: Muhammed Irfan <irfannadapuram@gmail.com>
+Date:   Tue Sep 6 18:01:52 2022 +0530
+
+    hi
+
+[33mcommit 9e40c91f9b3cd2660268f3dfc266c76e8045c178[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Muhammed Irfan <irfannadapuram@gmail.com>
+Date:   Tue Sep 6 17:41:02 2022 +0530
+
+    5 added
+
+[33mcommit de21e92eca0b8b3fafd27409a94c83622d0af3c4[m
+Author: Muhammed Irfan <irfannadapuram@gmail.com>
+Date:   Tue Sep 6 17:37:21 2022 +0530
+
+    4th added
+
+[33mcommit 1162b9c873a06f8825905799b4a9cb1c2a3ae6e8[m
+Author: Muhammed Irfan <irfannadapuram@gmail.com>
+Date:   Tue Sep 6 17:35:08 2022 +0530
+
+    next 3rd batch
+
+[33mcommit dac381908360020efac2846243b88a79cb07b0d5[m
+Author: Muhammed Irfan <irfannadapuram@gmail.com>
+Date:   Tue Sep 6 17:31:09 2022 +0530
+
+    added 2nd file
+
+[33mcommit 826a0f5597a02558bf0dfad2f44a49b91cb9c229[m[33m ([m[1;32mmon[m[33m)[m
+Author: Muhammed Irfan <irfannadapuram@gmail.com>
+Date:   Mon Sep 5 22:36:37 2022 +0530
+
+    added some massages
+
+[33mcommit 9c41080ae5bf03bdf9229e46631366af6c500b7f[m
+Author: Muhammed Irfan <irfannadapuram@gmail.com>
+Date:   Mon Sep 5 22:19:38 2022 +0530
+
+    initial Commit
